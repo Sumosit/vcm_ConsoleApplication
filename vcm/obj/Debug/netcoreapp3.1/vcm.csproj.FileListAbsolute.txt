@@ -1,0 +1,13 @@
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.exe
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.deps.json
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.runtimeconfig.json
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.runtimeconfig.dev.json
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.dll
+C:\Users\erlan\source\repos\vcm\vcm\bin\Debug\netcoreapp3.1\vcm.pdb
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.csprojAssemblyReference.cache
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.csproj.CoreCompileInputs.cache
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.AssemblyInfoInputs.cache
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.AssemblyInfo.cs
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.dll
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.pdb
+C:\Users\erlan\source\repos\vcm\vcm\obj\Debug\netcoreapp3.1\vcm.genruntimeconfig.cache
